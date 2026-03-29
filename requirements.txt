@@ -1,6 +1,0 @@
-streamlit
-scikit-learn
-gensim
-nltk
-transformers
-torch
